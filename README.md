@@ -10,7 +10,7 @@
 
 ## 📝 Sobre o Projeto
 
-O **TrucoScoreBoard** nasceu da necessidade de uma ferramenta simples, porém robusta, para gerenciar a pontuação de partidas de Truco (seja Paulista ou Mineiro). O foco principal é a **usabilidade**, garantindo que os jogadores não percam tempo configurando o app enquanto o jogo está pegando fogo.
+O **TrucoScoreBoardCompose** nasceu da necessidade de uma ferramenta simples, porém robusta, para gerenciar a pontuação de partidas de Truco (seja Paulista ou Mineiro). O foco principal é a **usabilidade**, garantindo que os jogadores não percam tempo configurando o app enquanto o jogo está pegando fogo.
 
 ### ✨ Funcionalidades Principais
 
