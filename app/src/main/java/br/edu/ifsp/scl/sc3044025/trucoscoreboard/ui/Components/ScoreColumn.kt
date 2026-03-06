@@ -17,8 +17,15 @@ fun ScoreColumn(
         modifier = modifier
             .padding(top = 50.dp)
     ) {
+
         TitleTeam(title)
+
+        if (score == 11) {
+            MaoDeOnze()
+        }
+
         TitleNumber(score)
+
         PlusButton(value = 1, onClick = { onAddScore(1) })
 
         TrucoButton(
@@ -28,9 +35,4 @@ fun ScoreColumn(
             onAddScore(3)
         }
     }
-}
-
-@Composable
-fun PlusButton(value: Int, content: @Composable () -> Unit) {
-    TODO("Not yet implemented")
 }
